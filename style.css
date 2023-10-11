@@ -174,11 +174,16 @@
     padding-top: 60px;
 }
 footer{
-    justify-content: center;
+    
     text-align: center;
+    
     background-color: #282531;
     color: #CDCDCD;
+    height: 30px;
     
     
+}
+a{
+    text-decoration: none;
 }
 
