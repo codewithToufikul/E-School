@@ -1,0 +1,184 @@
+.logo{
+    width: 200px;
+    height: 60px;
+}
+.collapse{
+    justify-content: end;
+    
+
+}
+
+.nav-item{
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.button-n{
+    
+    
+}
+.nav-b{
+    border: none;
+    background-color: #21b573;
+    height: 45px;
+    width: 100px;
+    border-radius: 40px;
+    color: white;
+}
+.nav-b:hover{
+    background-color: white;
+    color: #21b573;
+    border: solid 2px green;
+}
+
+.nav-con{
+    background-color: #F0FFF0;
+}
+#navbar{
+    background-color: #F0FFF0;
+}
+.imgg{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.bg{
+    background-color: #F0FFF0;
+   padding-bottom: 50px;
+    padding-top: 0px;
+}
+.text h1{
+    font-size: 53px;
+}
+.f-pera{
+    padding-top: 50px;
+    color: red;
+    font-size: 19px;
+}
+.any{
+    color: #21b573;
+}
+.h11{
+    margin-bottom: 35px;
+}
+.p11{
+    margin-bottom: 35px;
+}
+.banner-button{
+    border: none;
+    background-color: #21b573;
+    width: 140px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-style: italic;
+    color: #F0FFF0;
+
+}
+.banner-button:hover{
+    background-color: white;
+    color: #21b573;
+    border: solid 1px green;
+}
+.icon1{
+    width: 270px;
+    height: 270px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 3px px grey;
+    background-color: #F8FFFB;
+    
+}
+.icn-img{
+    width: 66px;
+    height: 85px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+.topic{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#alada{
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.co-img{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.n-card{
+    border: none;
+    box-shadow: 5px 10px 10px gainsboro;
+    border-radius: 20px;
+}
+.card-b{
+    border: none;
+    background-color: #21b573;
+    width: 140px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-style: italic;
+    color: #F0FFF0;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.card-b:hover{
+    background-color: white;
+    color: #21b573;
+    border: solid 1px green;
+}
+.cdt{
+    margin-bottom: 80px;
+}
+.tch{
+    margin-bottom: 60px;
+}
+.man-photo{
+    width: 140px;
+    height: 140px;
+}
+.texx{
+    width: 580px;
+    height: 90px;
+}
+.calendar, .people{
+    width: 24px;
+    height: 24px;
+}
+.man-area{
+    margin-bottom: 50px;
+}
+.last-bg{
+    background-color: 
+    #282531;
+    height: 400px;
+
+}
+.txtc{
+    color: #F0FFF0;
+    
+}
+.last-text{
+    padding-top: 60px;
+}
+footer{
+    justify-content: center;
+    text-align: center;
+    background-color: #282531;
+    color: #CDCDCD;
+    
+    
+}
+
